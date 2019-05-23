@@ -11,7 +11,11 @@ public class MouseLook : MonoBehaviour
     public float maximumVert = 45.0f; // максимум вертикаль
 
     private float _rotationX = 0; //Закрытая переменная для сохраннеия угла поворота вертикали.
-
+    private void Start()
+    {
+    
+    }
+    
     void Update()
     {
         _rotationX -= Input.GetAxis("Mouse Y") * sensitivityVert;
@@ -19,6 +23,7 @@ public class MouseLook : MonoBehaviour
         float delta = Input.GetAxis("Mouse X") * sensitivityHor; //Новая переменная хранит считываемое изменение мыши по Х
         float rotationY = transform.localEulerAngles.y + delta;//Значение delta - это величина изменения угла поворота
         transform.localEulerAngles = new Vector3(_rotationX, rotationY, 0);
+        Cursor.visible = false;
 
     }
 }
