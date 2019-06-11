@@ -60,9 +60,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\DieEnemy.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\FPSInput.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\SceneChange.cs" />
+    <Compile Include="Assets\Scripts\Shoot.cs" />
     <None Include="Assets\Fantasy Forest Set\Sources\Shaders\Vegitation.shader" />
     <None Include="Assets\Fantasy Forest Set\Sources\Shaders\Grid.shader" />
     <None Include="Assets\Fantasy Forest Set\Sources\Shaders\StandardSpecular_2Sided.shader" />
