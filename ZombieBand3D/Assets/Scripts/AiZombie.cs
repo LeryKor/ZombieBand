@@ -9,12 +9,9 @@ public class AiZombie : MonoBehaviour
     public Animator animator;
     public float speed = 20.0f;
     public GameObject target;
-    public Rigidbody2D rb;
-    private Vector2 moveZombie;
     // Start is called before the first frame update
     void Start()
     {
-        rb = gameObject.GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>(); 
     }
 
@@ -22,15 +19,22 @@ public class AiZombie : MonoBehaviour
     void Update()
     {
         _distance = Vector3.Distance(target.transform.position, gameObject.transform.position);
-        if(_distance <= _minDistance)
+        if (_distance <= _minDistance)
         {
             animator.SetBool("Near", true);
         }
-        if(_distance > _minDistance)
+        if (_distance > _minDistance)
         {
-            moveZombie = new Vector2(transform.position.x + speed, transform.position.y);
-            rb.MovePosition(rb.position + moveZombie * Time.fixedDeltaTime);
+            transform.position = Vector2.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
             animator.SetBool("Near", false);
+            if (target.transform.position.x > transform.position.x)
+            {
+                gameObject.GetComponent<SpriteRenderer>().flipX = false;
+            }
+            else
+            {
+                gameObject.GetComponent<SpriteRenderer>().flipX = true;
+            }
         }
     }
   
