@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 9d705acf4fa396444a0350e349bb18b1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_0
+    21300002: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_1
+    21300004: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_2
+    21300006: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_3
+    21300008: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_4
+    21300010: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_5
+    21300012: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_6
+    21300014: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_7
+    21300016: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_8
+    21300018: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_9
+    21300020: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_10
+    21300022: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_11
+    21300024: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_12
+    21300026: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_13
+    21300028: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_14
+    21300030: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_15
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 256
+        width: 83
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c42dcdcf4cf604a942e1b285d729fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 72
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceb300469a925040b8ffe265a51ae31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 100
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edfc8ac5a3c41049bdd0e56fb0da646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 256
+        width: 68
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fdb01bb08ff474996257347d6056d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 256
+        width: 88
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebba640770f53d49b2cc94484510de3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 256
+        width: 71
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4be87d32e433f45a1043c9086c098f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_6
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 257
+        width: 84
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0264d8c6a379d4c8f7176ee0f32287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 256
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67763419aeb5e264db68340883f2044a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 126
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c6f2024265564ea953812fa90c275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 13
+        width: 101
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c6a86ce33c549469dcc591401ed9d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 12
+        width: 84
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c5d6cd11502e45abf272a93e8d64a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 12
+        width: 110
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8602025d011cd4588ab90641babb00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_12
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 12
+        width: 72
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a776e5788a799d4caeadd063da4949d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 13
+        width: 116
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de27526e46a9c24b8d968c67e43f92e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_14
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 12
+        width: 80
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d56293b99d46040b3cbbd450c82409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-pixel-art-sprite-concept-art-5b320e399f4d68.1459780915300070976525_15
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 12
+        width: 103
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b0bc8abd94b964aa0b228f9c5f7ba6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c07946ffabee4764b81d984682b91757
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

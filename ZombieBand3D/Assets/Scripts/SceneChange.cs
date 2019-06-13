@@ -18,7 +18,7 @@ public class SceneChange : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {if(other.tag == "Player")
         {
-            SceneManager.LoadScene("SecondScene");
+            SceneManager.LoadScene("Scene2D");
         }
     }
 }
