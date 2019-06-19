@@ -10,12 +10,13 @@ public class AiZombie : MonoBehaviour
     public float speed = 20.0f;
     public GameObject target;
     private bool _alive = true;
+    public PlayerCharacter player;
+    public int damage = 1;
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
         target = GameObject.FindWithTag("Player");
-        
     }
 
     // Update is called once per frame
@@ -26,6 +27,7 @@ public class AiZombie : MonoBehaviour
         {
             if (_distance <= _minDistance)
             {
+                player.Hurt(damage);
                 if (target.GetComponent<Animator>().GetBool("Strike") == true)
                 {
                     animator.SetBool("Kill", true);

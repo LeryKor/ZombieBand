@@ -64,9 +64,11 @@
     <Compile Include="Assets\Scripts\BackScene.cs" />
     <Compile Include="Assets\Scripts\DieEnemy.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\FinalScene.cs" />
     <Compile Include="Assets\Scripts\FPSInput.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\PlayerCamera.cs" />
+    <Compile Include="Assets\Scripts\PlayerCharacter.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\SceneChange.cs" />
     <Compile Include="Assets\Scripts\Shoot.cs" />
