@@ -8,12 +8,14 @@ public class PlayerController : MonoBehaviour {
     private Rigidbody2D rb;
     private Vector2 moveVelocity;
     public Animator animator;
-
+    public AudioSource source;
+    public AudioClip clip;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        source.PlayOneShot(clip);
     }
 
     private void Update()

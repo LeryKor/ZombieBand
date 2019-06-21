@@ -5,10 +5,12 @@ using UnityEngine;
 public class FPSInput : MonoBehaviour
 {
     public float speed = 0.25f;
+    public AudioSource au;
+    public AudioClip clip;
     void Start()
     {
-
-    }
+        au.PlayOneShot(clip);
+            }
 
     void Update()
     {

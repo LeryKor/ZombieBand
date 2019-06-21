@@ -61,11 +61,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AiZombie.cs" />
+    <Compile Include="Assets\Scripts\Antidote.cs" />
     <Compile Include="Assets\Scripts\BackScene.cs" />
     <Compile Include="Assets\Scripts\DieEnemy.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\FinalScene.cs" />
     <Compile Include="Assets\Scripts\FPSInput.cs" />
+    <Compile Include="Assets\Scripts\LastMusic.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\PlayerCamera.cs" />
     <Compile Include="Assets\Scripts\PlayerCharacter.cs" />
