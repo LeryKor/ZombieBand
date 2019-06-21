@@ -2,9 +2,10 @@ Win64
 PlayerPath?
 C:/Users/Пользователь/Desktop/ZombieBand/ZombieBand3D/ZombieBand3D.exe
 SceneListBegin?
-Assets/Scenes/SecondScene.unity
-Assets/Scenes/Scene2D.unity
+Assets/Scenes/Start.unity
 Assets/Scenes/SampleScene.unity
+Assets/Scenes/Scene2D.unity
+Assets/Scenes/SecondScene.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
@@ -120,10 +121,11 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
+4ce15e99c635d2567873d27549d1f16f Assembly-CSharp.dll:.Antidote
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
-b1e5552ab9e3ff7fee2a0d75c8b43483 Assembly-CSharp.dll:.PlayerController
+b07c6e444b687b82330823f04c7feb78 Assembly-CSharp.dll:.PlayerController
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 1dcb82730d983b77cec736c6ef19f814 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -138,6 +140,7 @@ e0ee4b3d4e27318934cc940a969d3d96 UnityEngine.Networking.dll:UnityEngine.Networki
 ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 9b895dcabbc1faf095c000c32d471fd0 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 5887ef1bc706b22b773d253fd443ceef UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.FinalScene
 510fefd6a544e16a3ffefa557ddcba39 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 e51c09a4cc447f11db225afcd8e3e490 Unity.TextMeshPro.dll:TMPro.TMP_Settings
@@ -162,11 +165,13 @@ a4f0a4f62100f1a4fb5cbe0e00dde83f Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 8a9204255a7372e9f9970416be0b7b4d Assembly-CSharp.dll:.AiZombie
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.BackScene
-afc5b93a7b192de2dcb3832fe35a5c7e Assembly-CSharp.dll:.FPSInput
+04a8cea339039cc667082453c0a3691c Assembly-CSharp.dll:.FPSInput
 ebac0dd93085098e973da8ec453a3f50 Assembly-CSharp.dll:.Shoot
+9fbcbafe4c770ce191aca25935a4deba Assembly-CSharp.dll:.LastMusic
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.SceneChange
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.FinalScene
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.ButtonMenu
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.PauseScript

@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\AiZombie.cs" />
     <Compile Include="Assets\Scripts\Antidote.cs" />
     <Compile Include="Assets\Scripts\BackScene.cs" />
+    <Compile Include="Assets\Scripts\ButtonMenu.cs" />
     <Compile Include="Assets\Scripts\DieEnemy.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\FinalScene.cs" />

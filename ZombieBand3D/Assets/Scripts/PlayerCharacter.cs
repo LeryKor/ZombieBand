@@ -19,5 +19,11 @@ public class PlayerCharacter : MonoBehaviour
         }
         Debug.Log("Health: " + _health);
     }
-
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Menu");
+        }
+    }
 }
